@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d164f5b-bddf-44f4-9493-1c8e82203e43" name="Default Changelist" comment="Bug fixes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1lo2r6dudOfLVrthwo83HYQmjus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/InfoEx/repositories/infoex-mobile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mjjmk\Documents\DuckLabs\qwack-fb-func" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d164f5b-bddf-44f4-9493-1c8e82203e43" name="Default Changelist" comment="" />
+      <created>1608249318604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608249318604</updated>
+      <workItem from="1608249319614" duration="7097000" />
+      <workItem from="1608662334386" duration="598000" />
+      <workItem from="1608668871557" duration="593000" />
+      <workItem from="1608669986059" duration="4516000" />
+      <workItem from="1608677773718" duration="8268000" />
+      <workItem from="1608755530967" duration="2954000" />
+      <workItem from="1609893365763" duration="5145000" />
+      <workItem from="1609965270054" duration="8928000" />
+      <workItem from="1610067049697" duration="8373000" />
+      <workItem from="1610151986597" duration="350000" />
+      <workItem from="1610222151487" duration="8790000" />
+      <workItem from="1610326350140" duration="1426000" />
+      <workItem from="1610381393422" duration="1095000" />
+      <workItem from="1610384170700" duration="6695000" />
+      <workItem from="1610650587239" duration="5827000" />
+      <workItem from="1610753229672" duration="8353000" />
+      <workItem from="1610829974266" duration="3709000" />
+      <workItem from="1611246229447" duration="593000" />
+      <workItem from="1611250873552" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="setUpGame tested and working">
+      <created>1608503411924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608503411924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="setUpGame now async, added joinGame and getWords">
+      <created>1608601830216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608601830216</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Join game working">
+      <created>1608604541939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608604541939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed words from allWords.json to keep it simple, added modified word list - userNames.json - to filter out words people wouldn't want to be called. Fixed functions that weren't having guaranteed success.">
+      <created>1608683116804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608683116804</updated>
+    </task>
+    <task id="LOCAL-00005" summary="simplified shuffle function.">
+      <created>1608683399225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608683399225</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Words are now generated on game start, general auth method">
+      <created>1608691758229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608691758229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed startgame for adding words.">
+      <created>1609900552258</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609900552258</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Func for finding leader and getting game key.">
+      <created>1609901834829</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609901834829</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Made func for giving hint (leader to normies)">
+      <created>1609977456859</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609977456859</updated>
+    </task>
+    <task id="LOCAL-00010" summary="giveHint functional.">
+      <created>1609981961889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609981961889</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated word docs, guess works.">
+      <created>1610121825663</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610121825663</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated guess to add reasons for wins and if all blue or red cards are picked. Also gives all words when game is over.">
+      <created>1610303288665</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610303288665</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Only host can start a game, organised code.">
+      <created>1610307531275</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610307531275</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Joining a game - if no leader is found on team, new player is leader.">
+      <created>1610314192606</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610314192606</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Bug fixes">
+      <created>1610467660954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610467660954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Make leader and change teams">
+      <created>1610819542359</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610819542359</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fixed logic for checking if a game can start based on player count.">
+      <created>1610827057903</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610827057903</updated>
+    </task>
+    <task id="LOCAL-00018" summary="workspace.xml">
+      <created>1610827082332</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610827082332</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setUpGame tested and working" />
+    <MESSAGE value="setUpGame now async, added joinGame and getWords" />
+    <MESSAGE value="Join game working" />
+    <MESSAGE value="Removed words from allWords.json to keep it simple, added modified word list - userNames.json - to filter out words people wouldn't want to be called. Fixed functions that weren't having guaranteed success." />
+    <MESSAGE value="simplified shuffle function." />
+    <MESSAGE value="Words are now generated on game start, general auth method" />
+    <MESSAGE value="Fixed startgame for adding words." />
+    <MESSAGE value="Func for finding leader and getting game key." />
+    <MESSAGE value="Made func for giving hint (leader to normies)" />
+    <MESSAGE value="giveHint functional." />
+    <MESSAGE value="updated word docs, guess works." />
+    <MESSAGE value="Updated guess to add reasons for wins and if all blue or red cards are picked. Also gives all words when game is over." />
+    <MESSAGE value="Only host can start a game, organised code." />
+    <MESSAGE value="Joining a game - if no leader is found on team, new player is leader." />
+    <MESSAGE value="Bug fixes" />
+    <MESSAGE value="Make leader and change teams" />
+    <MESSAGE value="Fixed logic for checking if a game can start based on player count." />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+  </component>
+</project>
